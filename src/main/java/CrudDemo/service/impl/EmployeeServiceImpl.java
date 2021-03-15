@@ -1,8 +1,8 @@
-package hello.world.service.impl;
+package CrudDemo.service.impl;
 
-import hello.world.model.Employee;
-import hello.world.repo.IEmployeeRepository;
-import hello.world.service.IEmployeeService;
+import CrudDemo.model.Employee;
+import CrudDemo.repo.IEmployeeRepository;
+import CrudDemo.service.IEmployeeService;
 
 import javax.inject.Inject;
 import javax.inject.Singleton;

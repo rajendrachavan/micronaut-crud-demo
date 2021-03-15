@@ -1,6 +1,6 @@
-package hello.world.repo;
+package CrudDemo.repo;
 
-import hello.world.model.Employee;
+import CrudDemo.model.Employee;
 import io.micronaut.data.annotation.Repository;
 import io.micronaut.data.jpa.repository.JpaRepository;
 

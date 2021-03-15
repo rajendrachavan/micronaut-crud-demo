@@ -1,4 +1,4 @@
-package hello.world.model;
+package CrudDemo.model;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;

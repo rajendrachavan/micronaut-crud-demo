@@ -1,6 +1,6 @@
-package hello.world.service;
+package CrudDemo.service;
 
-import hello.world.model.Employee;
+import CrudDemo.model.Employee;
 
 import java.util.List;
 

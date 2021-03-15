@@ -1,7 +1,7 @@
-package hello.world.controller;
+package CrudDemo.controller;
 
-import hello.world.model.Employee;
-import hello.world.service.IEmployeeService;
+import CrudDemo.model.Employee;
+import CrudDemo.service.IEmployeeService;
 import io.micronaut.http.HttpHeaders;
 import io.micronaut.http.HttpResponse;
 import io.micronaut.http.MediaType;
